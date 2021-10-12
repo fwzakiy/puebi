@@ -1,4 +1,4 @@
-PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indonesia* (PUEBI) Permendikbud 50/2015. Isi [PUEBI Daring](http://ivanlanin.github.io/puebi) diperkaya dengan beberapa catatan tambahan yang belum dinyatakan atau dinyatakan secara implisit pada dokumen asli [Permendikbud 50/2015](https://upload.wikimedia.org/wikipedia/commons/3/33/Peraturan_Menteri_Pendidikan_dan_Kebudayaan_Nomor_50_Tahun_2015_tentang_Pedoman_Umum_Ejaan_Bahasa_Indonesia.pdf).
+PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indonesia* (PUEBI) Permendikbud 50/2015. Isi [PUEBI Daring](http://puebi.zakiy.my.id/) diperkaya dengan beberapa catatan tambahan yang belum dinyatakan atau dinyatakan secara implisit pada dokumen asli [Permendikbud 50/2015](https://upload.wikimedia.org/wikipedia/commons/3/33/Peraturan_Menteri_Pendidikan_dan_Kebudayaan_Nomor_50_Tahun_2015_tentang_Pedoman_Umum_Ejaan_Bahasa_Indonesia.pdf).
 
 ## Daftar Isi
 
@@ -51,4 +51,4 @@ Proyek ini adalah prakarsa semenjana untuk meningkatkan keterbacaan PUEBI dengan
 
 ## Hak Cipta
 
-Hak cipta PUEBI dimiliki oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia](http://badanbahasa.kemdikbud.go.id/). Penyuntingan dan pengatakan (*layout*) spesifik yang diterapkan pada situs ini diberi lisensi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id) oleh [@ivanlanin](https://twitter.com/ivanlanin).
+Hak cipta PUEBI dimiliki oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia](http://badanbahasa.kemdikbud.go.id/). Penyuntingan dan pengatakan (*layout*) spesifik yang diterapkan pada situs ini diberi lisensi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id) oleh @ivanlanin.
