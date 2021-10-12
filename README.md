@@ -13,4 +13,4 @@ Proyek ini adalah prakarsa semenjana untuk meningkatkan keterbacaan PUEBI dengan
 
 ## Hak Cipta
 
-Hak cipta PUEBI dimiliki oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia](http://badanbahasa.kemdikbud.go.id/). Penyuntingan dan pengatakan (*layout*) spesifik yang diterapkan pada situs ini diberi lisensi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id) oleh [@ivanlanin](https://twitter.com/ivanlanin).
+Hak cipta PUEBI dimiliki oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia](http://badanbahasa.kemdikbud.go.id/). Penyuntingan dan pengatakan (*layout*) spesifik yang diterapkan pada situs ini diberi lisensi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id) oleh @ivanlanin.
