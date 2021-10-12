@@ -44,7 +44,7 @@ pages:
   - 'Penulisan Unsur Serapan': 'unsur-serapan/index.md'
 theme: 'readthedocs'
 repo_name: 'GitHub'
-repo_url: 'https://github.com/ivanlanin/puebi'
-google_analytics: ['UA-80210173-1', 'auto']
+repo_url: 'https://github.com/fwzakiy/puebi'
+google_analytics: ['', 'auto']
 markdown_extensions:
   - admonition
